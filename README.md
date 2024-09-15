@@ -115,9 +115,13 @@ A aplicação estará disponível em http://localhost:3000.
 
 ## API Endpoints
 GET /clients: Retorna todas as reuniões.
+
 GET /clients/: Retorna uma reunião específica por ID.
+
 POST /clients: Insere uma nova reunião.
+
 PATCH /clients/: Atualiza uma reunião existente.
+
 DELETE /clients/: Remove uma reunião.
 
 ## Estrutura do Banco de Dados
