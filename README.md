@@ -1,46 +1,4 @@
-# 🚀 CRUD de Aplicação de Reuniões
-
-Este projeto é um sistema de CRUD (Create, Read, Update, Delete) para uma aplicação de reuniões, que permite gerenciar dados de clientes de forma eficiente. A aplicação é composta por um front-end em React e um back-end desenvolvido em Node.js com Express, integrando um banco de dados SQLite. A API permite buscar, inserir, editar e deletar clientes.
-
-## Funcionalidades
-
-- Listar todas as reuniões (clientes).
-- Adicionar novas reuniões com informações detalhadas.
-- Editar dados de reuniões existentes.
-- Excluir reuniões.
-- Marcar reuniões como favoritas.
-
-## Tecnologias Utilizadas
-
-### Front-End:
-- **React**: Framework JavaScript para construção de interfaces de usuário.
-- **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
-- **Material-UI**: Biblioteca de componentes de interface.
-- **Framer Motion**: Biblioteca para animações.
-
-### Back-End:
-- **Node.js**: Ambiente de execução para JavaScript no servidor.
-- **Express**: Framework web minimalista para Node.js.
-- **SQLite**: Banco de dados SQL leve.
-- **Zod**: Biblioteca para validação de dados.
-
-## Como Executar o Projeto
-
-### Pré-requisitos
-
-Certifique-se de ter instalado em sua máquina:
-
-- Node.js (versão 14 ou superior)
-- NPM ou Yarn
-- SQLite3
-
-### Backend (Node.js + Express)
-
-1. Clone o repositório:
-
-`git clone https://github.com/uiu-Rafael/Teste-aps.git`
-   
-# CRUD de Aplicação de Reuniões
+# 🚀CRUD de Aplicação de Reuniões
 
 Este projeto é um sistema de CRUD (Create, Read, Update, Delete) para uma aplicação de reuniões, que permite gerenciar dados de clientes de forma eficiente. A aplicação é composta por um front-end em React e um back-end desenvolvido em Node.js com Express, integrando um banco de dados SQLite. A API permite buscar, inserir, editar e deletar clientes.
 
