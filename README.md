@@ -125,13 +125,21 @@ DELETE /clients/: Remove uma reunião.
 O banco de dados é composto pela tabela clients, que armazena as seguintes informações:
 
 id: Identificador único.
+
 image: Imagem associada ao cliente.
+
 cnpj: CNPJ da empresa.
+
 name: Nome da empresa.
+
 fantasyname: Nome fantasia.
+
 cep, logradouro, bairro, city, uf: Endereço completo.
+
 email: E-mail do cliente.
+
 phone: Telefone de contato.
+
 complement: Complemento de endereço.
 
 ## Contribuições
