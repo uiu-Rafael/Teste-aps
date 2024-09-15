@@ -1,4 +1,4 @@
-# 🚀 CRUD de Aplicação de Reuniões
+#🚀 CRUD de Aplicação de Reuniões
 
 Este projeto é um sistema de CRUD (Create, Read, Update, Delete) para uma aplicação de reuniões, que permite gerenciar dados de clientes de forma eficiente. A aplicação é composta por um front-end em React e um back-end desenvolvido em Node.js com Express, integrando um banco de dados SQLite. A API permite buscar, inserir, editar e deletar clientes.
 
