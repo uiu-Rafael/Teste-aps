@@ -38,7 +38,7 @@ Certifique-se de ter instalado em sua máquina:
 
 #### 1. Clone o repositório:
 
-`git clone git clone https://github.com/uiu-Rafael/Teste-aps.git`
+`git clone https://github.com/uiu-Rafael/Teste-aps.git`
 
 #### 2. Entre na pasta do servidor:
 
